@@ -1,5 +1,5 @@
 def parrot(name)
   name = "Squawk"
-  puts "I'm #name, the parrot!"
+  puts "#{name}"
   "Squawk"
 end 
